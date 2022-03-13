@@ -1,0 +1,4 @@
+2022-03-13 17:12:10,922 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-13 17:12:10,936 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as /Users/lena/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-13 17:12:14,913 INFO c.g.e.s.DriverFunctions [main] Clicking element with xpath ://div[@class='banner-actions-container']//button[@id='onetrust-accept-btn-handler']
+2022-03-13 17:12:15,012 INFO c.g.e.s.DriverFunctions [main] Clicking element with xpath ://span[@class ='chevron svelte-1tofppr']

@@ -1,0 +1,6 @@
+for searching by the schedule on Mac execute in the terminal:
+crontab -e
+0 3 * * * /Users/username/IdeaProjects/SearchInIkea/searchIkea.sh >> ~/Desktop/cron_log.txt
+
+
+https://www.guru99.com/crontab-in-linux-with-examples.html
